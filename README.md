@@ -34,20 +34,4 @@ This project analyzes responses from data professionals to uncover insights into
 - **Power BI Desktop** – Visualization and dashboard development
 - **Microsoft Excel** – Data wrangling and cleanup
 
-## 🚀 How to Use
 
-1. Download or clone this repository.
-2. Open the `.pbix` file using Power BI Desktop.
-3. Explore insights using slicers and visuals, or adapt it to your own data.
-
-## ✅ Possible Improvements
-
-- Incorporate time-based tracking to analyze trends over time.
-- Add job roles or experience levels to enable more granular filtering.
-- Deploy the report to Power BI Service for web-based sharing.
-
-## 📬 Contact
-
-For questions, enhancements, or collaboration ideas, feel free to open an issue or reach out directly.
-
----
